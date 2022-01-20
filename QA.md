@@ -1,4 +1,4 @@
-# QA.md
+# Q&A.md
 
 ## A
 **Q:**@如何快速学习markdown语法?
